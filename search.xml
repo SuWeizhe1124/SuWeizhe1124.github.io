@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>外匯教學</title>
+    <url>/2021/06/06/%E5%A4%96%E5%8C%AF%E6%95%99%E5%AD%B8/</url>
+    <content><![CDATA[<h2 id="簡易的教學"><a href="#簡易的教學" class="headerlink" title="簡易的教學"></a>簡易的教學</h2><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">1.基本面分析<br><br>2.新聞(消息)面分析<br><br>3.技術面分析<br><br>4.籌碼面分析<br><br>基本面分析：<br><br>基本面分析是一種對貨幣價值進行研究分析<br><br>社會和政治力量來觀察貨幣價值的一種方法，因為供給和需求決定了貨幣的價格。<br><br>使用供需作為價格走向的困難部分是分析影響供需的所有因素。<br><br>換句話說，你必須考慮不同的因素，以確定誰的經濟岌岌可危，誰的經濟未來有利可圖。<br></code></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Example</category>
+      </categories>
+      <tags>
+        <tag>code</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/06/06/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>校方通知連結</title>
+    <url>/2021/06/17/%E9%81%B8%E8%AA%B2%E9%80%9A%E7%9F%A5/</url>
+    <content><![CDATA[<h4 id="學校的事情"><a href="#學校的事情" class="headerlink" title="學校的事情"></a>學校的事情</h4><table>
+<thead>
+<tr>
+<th align="left">屏東大學</th>
+<th align="left">選課</th>
+<th align="left">活動研習條</th>
+<th align="left">網路大學</th>
+<th align="left">行政</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><a href="http://www.alumni.nptu.edu.tw/bin/home.php">首頁</a></td>
+<td align="left"><a href="https://github.com/SuWeizhe1124/Folder/blob/main/%E9%81%B8%E8%AA%B2%E6%99%82%E7%A8%8B%E8%A1%A8.pdf">選課通知9-10</a></td>
+<td align="left"><a href="https://webap.nptu.edu.tw/aes/">活動</a></td>
+<td align="left"><a href="https://elearning.nptu.edu.tw/mooc/login.php">網路大學</a></td>
+<td align="left"><a href="https://webap.nptu.edu.tw/web/Secure/default.aspx?sIndex=2">行政系統</a></td>
+</tr>
+<tr>
+<td align="left">Text5</td>
+<td align="left">Text6</td>
+<td align="left">Text7</td>
+<td align="left">Text8</td>
+<td align="left">Text9</td>
+</tr>
+<tr>
+<td align="left">Text10</td>
+<td align="left">Text11</td>
+<td align="left">Text12</td>
+<td align="left">Text13</td>
+<td align="left">Text14</td>
+</tr>
+</tbody></table>
+<h2 id="評論討論"><a href="#評論討論" class="headerlink" title="評論討論"></a><a href="https://github.com/SuWeizhe1124/Folder/issues">評論討論</a></h2>]]></content>
+  </entry>
+</search>
