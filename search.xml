@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>外匯教學</title>
-    <url>/2021/06/06/%E5%A4%96%E5%8C%AF%E6%95%99%E5%AD%B8/</url>
-    <content><![CDATA[<h2 id="簡易的教學"><a href="#簡易的教學" class="headerlink" title="簡易的教學"></a>簡易的教學</h2><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">1.基本面分析<br><br>2.新聞(消息)面分析<br><br>3.技術面分析<br><br>4.籌碼面分析<br><br>基本面分析：<br><br>基本面分析是一種對貨幣價值進行研究分析<br><br>社會和政治力量來觀察貨幣價值的一種方法，因為供給和需求決定了貨幣的價格。<br><br>使用供需作為價格走向的困難部分是分析影響供需的所有因素。<br><br>換句話說，你必須考慮不同的因素，以確定誰的經濟岌岌可危，誰的經濟未來有利可圖。<br></code></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Example</category>
-      </categories>
-      <tags>
-        <tag>code</tag>
-      </tags>
+    <title>論文</title>
+    <url>/2021/06/18/Untitled/</url>
+    <content><![CDATA[<h2 id="文字型視覺機密分享論文"><a href="#文字型視覺機密分享論文" class="headerlink" title="文字型視覺機密分享論文"></a><a href="https://github.com/SuWeizhe1124/Folder/blob/main/%E6%96%87%E5%AD%97%E5%9E%8B%E8%A6%96%E8%A6%BA%E6%A9%9F%E5%AF%86%E5%88%86%E4%BA%AB.pdf">文字型視覺機密分享論文</a></h2>]]></content>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -65,5 +59,16 @@
 </tr>
 </tbody></table>
 <h2 id="評論討論"><a href="#評論討論" class="headerlink" title="評論討論"></a><a href="https://github.com/SuWeizhe1124/Folder/issues">評論討論</a></h2>]]></content>
+  </entry>
+  <entry>
+    <title>外匯教學</title>
+    <url>/2021/06/06/%E5%A4%96%E5%8C%AF%E6%95%99%E5%AD%B8/</url>
+    <content><![CDATA[<h2 id="簡易的教學"><a href="#簡易的教學" class="headerlink" title="簡易的教學"></a>簡易的教學</h2><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">1.基本面分析<br><br>2.新聞(消息)面分析<br><br>3.技術面分析<br><br>4.籌碼面分析<br><br>基本面分析：<br><br>基本面分析是一種對貨幣價值進行研究分析<br><br>社會和政治力量來觀察貨幣價值的一種方法，因為供給和需求決定了貨幣的價格。<br><br>使用供需作為價格走向的困難部分是分析影響供需的所有因素。<br><br>換句話說，你必須考慮不同的因素，以確定誰的經濟岌岌可危，誰的經濟未來有利可圖。<br></code></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Example</category>
+      </categories>
+      <tags>
+        <tag>code</tag>
+      </tags>
   </entry>
 </search>
