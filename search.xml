@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title> paper</title>
-    <url>/2021/06/18/Untitled/</url>
-    <content><![CDATA[<h2 id="文字型視覺機密分享論文"><a href="#文字型視覺機密分享論文" class="headerlink" title="文字型視覺機密分享論文"></a><a href="https://github.com/SuWeizhe1124/Folder/blob/main/%E6%96%87%E5%AD%97%E5%9E%8B%E8%A6%96%E8%A6%BA%E6%A9%9F%E5%AF%86%E5%88%86%E4%BA%AB.pdf">文字型視覺機密分享論文</a></h2>]]></content>
-  </entry>
-  <entry>
     <title>Exercise</title>
     <url>/2021/06/20/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -98,6 +93,11 @@ pie
 </div>]]></content>
   </entry>
   <entry>
+    <title> paper</title>
+    <url>/2021/06/18/Untitled/</url>
+    <content><![CDATA[<h2 id="文字型視覺機密分享論文"><a href="#文字型視覺機密分享論文" class="headerlink" title="文字型視覺機密分享論文"></a><a href="https://github.com/SuWeizhe1124/Folder/blob/main/%E6%96%87%E5%AD%97%E5%9E%8B%E8%A6%96%E8%A6%BA%E6%A9%9F%E5%AF%86%E5%88%86%E4%BA%AB.pdf">文字型視覺機密分享論文</a></h2>]]></content>
+  </entry>
+  <entry>
     <title> School</title>
     <url>/2021/06/17/%E9%81%B8%E8%AA%B2%E9%80%9A%E7%9F%A5/</url>
     <content><![CDATA[<h4 id="學校的事情"><a href="#學校的事情" class="headerlink" title="學校的事情"></a>學校的事情</h4><table>
@@ -133,5 +133,11 @@ pie
 </tr>
 </tbody></table>
 <h2 id="評論討論"><a href="#評論討論" class="headerlink" title="評論討論"></a><a href="https://github.com/SuWeizhe1124/Folder/issues">評論討論</a></h2>]]></content>
+      <categories>
+        <category>note</category>
+      </categories>
+      <tags>
+        <tag>School</tag>
+      </tags>
   </entry>
 </search>
