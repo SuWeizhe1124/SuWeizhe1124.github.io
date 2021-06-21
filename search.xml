@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Google Search Console</title>
-    <url>/2021/06/21/Untitled/</url>
-    <content><![CDATA[<p>Google Search Console</p>
-<p>A free webmaster tool developed by Google. Administrators can use this tool to understand the inclusion of their own website and optimize the exposure rate of the website</p>
-<p><a href="https://search.google.com/search-console/welcome">Google Search Console start</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Medibang</title>
     <url>/2021/06/21/Medibang/</url>
     <content><![CDATA[<p><a href="https://medibang.com/">Medibang</a></p>
@@ -108,6 +100,20 @@ pie
 </div>]]></content>
   </entry>
   <entry>
+    <title>Google Search Console</title>
+    <url>/2021/06/21/Untitled/</url>
+    <content><![CDATA[<p>Google Search Console</p>
+<p>A free webmaster tool developed by Google. Administrators can use this tool to understand the inclusion of their own website and optimize the exposure rate of the website</p>
+<p><a href="https://search.google.com/search-console/welcome">Google Search Console start</a></p>
+<p><img src="https://github.com/SuWeizhe1124/Folder/blob/main/google.PNG?raw=true" alt="Google Search Console start"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>paper</title>
+    <url>/2021/06/21/paper/</url>
+    <content><![CDATA[<h4 id="搜尋系統"><a href="#搜尋系統" class="headerlink" title="[搜尋系統]"></a>[搜尋系統]</h4><h5 id="政府資訊系統"><a href="#政府資訊系統" class="headerlink" title="政府資訊系統"></a><a href="https://www.grb.gov.tw/search;keyword=Visual%20cryptography.;type=GRB05;scope=1">政府資訊系統</a></h5><h5 id="slideserve"><a href="#slideserve" class="headerlink" title="slideserve"></a><a href="https://www.slideserve.com/">slideserve</a></h5><h5 id="臺灣碩博士論文"><a href="#臺灣碩博士論文" class="headerlink" title="臺灣碩博士論文"></a><a href="https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=d">臺灣碩博士論文</a></h5><h5 id="Airitilibrary"><a href="#Airitilibrary" class="headerlink" title="Airitilibrary."></a><a href="https://www.airitilibrary.com/Search/alThesisbrowse?FirstID=U0001&type=Dissertations&changeColor=CU0001">Airitilibrary.</a></h5><h5 id="Sciencedirect"><a href="#Sciencedirect" class="headerlink" title="Sciencedirect"></a><a href="https://www.sciencedirect.com/">Sciencedirect</a></h5><h5 id="紅網"><a href="#紅網" class="headerlink" title="紅網"></a><a href="https://royalsocietypublishing.org/doi/10.1098/rstb.2011.0106">紅網</a></h5><h5 id="IEEE-公認的棒"><a href="#IEEE-公認的棒" class="headerlink" title="IEEE 公認的棒"></a><a href="https://ieeexplore.ieee.org/document/1089771">IEEE 公認的棒</a></h5><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a><a href="https://tool.yovisun.com/scihub/">工具</a></h3><h5 id="文字型視覺機密分享"><a href="#文字型視覺機密分享" class="headerlink" title="文字型視覺機密分享"></a><a href="https://github.com/SuWeizhe1124/Folder/blob/main/%E6%96%87%E5%AD%97%E5%9E%8B%E8%A6%96%E8%A6%BA%E6%A9%9F%E5%AF%86%E5%88%86%E4%BA%AB.pdf">文字型視覺機密分享</a></h5>]]></content>
+  </entry>
+  <entry>
     <title> School</title>
     <url>/2021/06/17/%E9%81%B8%E8%AA%B2%E9%80%9A%E7%9F%A5/</url>
     <content><![CDATA[<h4 id="學校的事情"><a href="#學校的事情" class="headerlink" title="學校的事情"></a>學校的事情</h4><table>
@@ -149,10 +155,5 @@ pie
       <tags>
         <tag>School</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>paper</title>
-    <url>/2021/06/21/paper/</url>
-    <content><![CDATA[<h3 id="文字型視覺機密分享"><a href="#文字型視覺機密分享" class="headerlink" title="文字型視覺機密分享"></a><a href="https://github.com/SuWeizhe1124/Folder/blob/main/%E6%96%87%E5%AD%97%E5%9E%8B%E8%A6%96%E8%A6%BA%E6%A9%9F%E5%AF%86%E5%88%86%E4%BA%AB.pdf">文字型視覺機密分享</a></h3>]]></content>
   </entry>
 </search>
