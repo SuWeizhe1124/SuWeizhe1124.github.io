@@ -8,6 +8,75 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Python 教學</title>
+    <url>/2021/06/22/Python-%E6%95%99%E5%AD%B8/</url>
+    <content><![CDATA[<h3 id="Python"><a href="#Python" class="headerlink" title="Python"></a><a href="https://docs.python.org/zh-tw/3/tutorial/index.html">Python</a></h3><ul>
+<li>他是一種易學、功能強大的程式語言。</li>
+<li>高效能的高階資料結構</li>
+<li>簡單有效的方法去實現物件導向程式設計</li>
+</ul>
+<p>Python 優雅的語法和動態型別，結合其直譯特性，使它成為眾多領域和大多數平臺上，撰寫腳本和快速開發應用程式的理想語言。</p>
+<p>免費地從 Python 官網上 <a href="https://www.python.org/">Python</a> 取得各大平台上用的 Python 直譯器和標準函式庫，下載其源碼或二進位形式執行檔，同時，也可以將其自由地散佈。</p>
+<ul>
+<li>C 或 C++（或其他可被 C 呼叫的程式語言）</li>
+<li>容易在 Python 直譯器內新增功能函式及資料型別。</li>
+<li>對可讓使用者自製功能的應用程式來說，Python 也適合作為其擴充用界面語言</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>Google Search Console</title>
+    <url>/2021/06/21/Untitled/</url>
+    <content><![CDATA[<p>Google Search Console</p>
+<p>A free webmaster tool developed by Google. Administrators can use this tool to understand the inclusion of their own website and optimize the exposure rate of the website</p>
+<p><a href="https://search.google.com/search-console/welcome">Google Search Console start</a></p>
+<p><img src="https://github.com/SuWeizhe1124/Folder/blob/main/google.PNG?raw=true" alt="Google Search Console start"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title> School</title>
+    <url>/2021/06/17/%E9%81%B8%E8%AA%B2%E9%80%9A%E7%9F%A5/</url>
+    <content><![CDATA[<h4 id="學校的事情"><a href="#學校的事情" class="headerlink" title="學校的事情"></a>學校的事情</h4><table>
+<thead>
+<tr>
+<th align="left">屏東大學</th>
+<th align="left">選課</th>
+<th align="left">活動研習條</th>
+<th align="left">網路大學</th>
+<th align="left">行政</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><a href="http://www.alumni.nptu.edu.tw/bin/home.php">首頁</a></td>
+<td align="left"><a href="https://github.com/SuWeizhe1124/Folder/blob/main/%E9%81%B8%E8%AA%B2%E6%99%82%E7%A8%8B%E8%A1%A8.pdf">選課通知9-10</a></td>
+<td align="left"><a href="https://webap.nptu.edu.tw/aes/">活動</a></td>
+<td align="left"><a href="https://elearning.nptu.edu.tw/mooc/login.php">網路大學</a></td>
+<td align="left"><a href="https://webap.nptu.edu.tw/web/Secure/default.aspx?sIndex=2">行政系統</a></td>
+</tr>
+<tr>
+<td align="left">Text5</td>
+<td align="left">Text6</td>
+<td align="left">Text7</td>
+<td align="left">Text8</td>
+<td align="left">Text9</td>
+</tr>
+<tr>
+<td align="left">Text10</td>
+<td align="left">Text11</td>
+<td align="left">Text12</td>
+<td align="left">Text13</td>
+<td align="left">Text14</td>
+</tr>
+</tbody></table>
+<h2 id="評論討論"><a href="#評論討論" class="headerlink" title="評論討論"></a><a href="https://github.com/SuWeizhe1124/Folder/issues">評論討論</a></h2>]]></content>
+      <categories>
+        <category>note</category>
+      </categories>
+      <tags>
+        <tag>School</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Exercise</title>
     <url>/2021/06/20/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -100,60 +169,8 @@ pie
 </div>]]></content>
   </entry>
   <entry>
-    <title>Google Search Console</title>
-    <url>/2021/06/21/Untitled/</url>
-    <content><![CDATA[<p>Google Search Console</p>
-<p>A free webmaster tool developed by Google. Administrators can use this tool to understand the inclusion of their own website and optimize the exposure rate of the website</p>
-<p><a href="https://search.google.com/search-console/welcome">Google Search Console start</a></p>
-<p><img src="https://github.com/SuWeizhe1124/Folder/blob/main/google.PNG?raw=true" alt="Google Search Console start"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>paper</title>
     <url>/2021/06/21/paper/</url>
     <content><![CDATA[<h4 id="搜尋系統"><a href="#搜尋系統" class="headerlink" title="[搜尋系統]"></a>[搜尋系統]</h4><h5 id="政府資訊系統"><a href="#政府資訊系統" class="headerlink" title="政府資訊系統"></a><a href="https://www.grb.gov.tw/search;keyword=Visual%20cryptography.;type=GRB05;scope=1">政府資訊系統</a></h5><h5 id="slideserve"><a href="#slideserve" class="headerlink" title="slideserve"></a><a href="https://www.slideserve.com/">slideserve</a></h5><h5 id="臺灣碩博士論文"><a href="#臺灣碩博士論文" class="headerlink" title="臺灣碩博士論文"></a><a href="https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=d">臺灣碩博士論文</a></h5><h5 id="Airitilibrary"><a href="#Airitilibrary" class="headerlink" title="Airitilibrary."></a><a href="https://www.airitilibrary.com/Search/alThesisbrowse?FirstID=U0001&type=Dissertations&changeColor=CU0001">Airitilibrary.</a></h5><h5 id="Sciencedirect"><a href="#Sciencedirect" class="headerlink" title="Sciencedirect"></a><a href="https://www.sciencedirect.com/">Sciencedirect</a></h5><h5 id="紅網"><a href="#紅網" class="headerlink" title="紅網"></a><a href="https://royalsocietypublishing.org/doi/10.1098/rstb.2011.0106">紅網</a></h5><h5 id="IEEE-公認的棒"><a href="#IEEE-公認的棒" class="headerlink" title="IEEE 公認的棒"></a><a href="https://ieeexplore.ieee.org/document/1089771">IEEE 公認的棒</a></h5><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a><a href="https://tool.yovisun.com/scihub/">工具</a></h3><h5 id="文字型視覺機密分享"><a href="#文字型視覺機密分享" class="headerlink" title="文字型視覺機密分享"></a><a href="https://github.com/SuWeizhe1124/Folder/blob/main/%E6%96%87%E5%AD%97%E5%9E%8B%E8%A6%96%E8%A6%BA%E6%A9%9F%E5%AF%86%E5%88%86%E4%BA%AB.pdf">文字型視覺機密分享</a></h5>]]></content>
-  </entry>
-  <entry>
-    <title> School</title>
-    <url>/2021/06/17/%E9%81%B8%E8%AA%B2%E9%80%9A%E7%9F%A5/</url>
-    <content><![CDATA[<h4 id="學校的事情"><a href="#學校的事情" class="headerlink" title="學校的事情"></a>學校的事情</h4><table>
-<thead>
-<tr>
-<th align="left">屏東大學</th>
-<th align="left">選課</th>
-<th align="left">活動研習條</th>
-<th align="left">網路大學</th>
-<th align="left">行政</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left"><a href="http://www.alumni.nptu.edu.tw/bin/home.php">首頁</a></td>
-<td align="left"><a href="https://github.com/SuWeizhe1124/Folder/blob/main/%E9%81%B8%E8%AA%B2%E6%99%82%E7%A8%8B%E8%A1%A8.pdf">選課通知9-10</a></td>
-<td align="left"><a href="https://webap.nptu.edu.tw/aes/">活動</a></td>
-<td align="left"><a href="https://elearning.nptu.edu.tw/mooc/login.php">網路大學</a></td>
-<td align="left"><a href="https://webap.nptu.edu.tw/web/Secure/default.aspx?sIndex=2">行政系統</a></td>
-</tr>
-<tr>
-<td align="left">Text5</td>
-<td align="left">Text6</td>
-<td align="left">Text7</td>
-<td align="left">Text8</td>
-<td align="left">Text9</td>
-</tr>
-<tr>
-<td align="left">Text10</td>
-<td align="left">Text11</td>
-<td align="left">Text12</td>
-<td align="left">Text13</td>
-<td align="left">Text14</td>
-</tr>
-</tbody></table>
-<h2 id="評論討論"><a href="#評論討論" class="headerlink" title="評論討論"></a><a href="https://github.com/SuWeizhe1124/Folder/issues">評論討論</a></h2>]]></content>
-      <categories>
-        <category>note</category>
-      </categories>
-      <tags>
-        <tag>School</tag>
-      </tags>
   </entry>
 </search>
