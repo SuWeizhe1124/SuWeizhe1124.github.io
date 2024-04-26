@@ -1,0 +1,29 @@
+
+	<article>
+	
+		<h1><a href="/2013/12/26/images/">Images</a></h1>
+	
+	<div class="article__infos">
+		<span class="article__date">26.12.2013</span><br>
+		
+		
+			<span class="article__tags">
+			  	<a class="article__tag-link" href="/tags/first/">first</a> <a class="article__tag-link" href="/tags/post/">post</a>
+			</span>
+		
+	</div>
+
+	
+
+	
+		<p>This is a image test post.</p>
+<p><figure class="figure"><img src="/assets/wallpaper-2572384.jpg" alt=""></figure></p>
+<p><figure class="figure"><img src="/assets/wallpaper-2311325.jpg" alt="Caption"><figcaption class="figure__caption">Caption</figcaption></figure></p>
+<p><figure class="figure"><img src="/assets/wallpaper-878514.jpg" alt=""></figure></p>
+<p><figure class="figure"><img src="http://placehold.it/350x150.jpg" alt="Small Picture"><figcaption class="figure__caption">Small Picture</figcaption></figure></p>
+
+	
+
+	
+
+</article>
