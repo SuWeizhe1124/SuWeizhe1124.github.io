@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://suweizhe1124.github.io/about/index.html</loc>
+    
+    <lastmod>2024-05-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://suweizhe1124.github.io/categories/index.html</loc>
+    
+    <lastmod>2024-05-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://suweizhe1124.github.io/tags/index.html</loc>
+    
+    <lastmod>2024-05-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://suweizhe1124.github.io/2024/05/04/END1/uncategorized/20240504/1/</loc>
     
     <lastmod>2024-05-27</lastmod>
@@ -20,15 +47,6 @@
   </url>
   
   <url>
-    <loc>https://suweizhe1124.github.io/about/index.html</loc>
-    
-    <lastmod>2024-05-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://suweizhe1124.github.io/Hello/index.html</loc>
     
     <lastmod>2024-05-07</lastmod>
@@ -38,25 +56,7 @@
   </url>
   
   <url>
-    <loc>https://suweizhe1124.github.io/tags/index.html</loc>
-    
-    <lastmod>2024-05-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://suweizhe1124.github.io/Hello/index-1.html</loc>
-    
-    <lastmod>2024-05-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://suweizhe1124.github.io/categories/index.html</loc>
     
     <lastmod>2024-05-07</lastmod>
     
