@@ -29,12 +29,44 @@
 	</header>
 
 	<main>
-		<article>
-	<h1></h1>
+		<h1>Archive</h1>
 
+
+
+
+
+<ul class="archive">
 	
 	
-</article>
+		<li class="archive__year archive__expendable ">
+			<span>2023</span>
+			<ul>
+				
+					<li class="archive__month archive__expendable">
+						<span>July</span>
+						<ul>
+							
+								<li class="archive__entry"><a href="/2023/07/07/3-0/uncategorized/20230707/undefined/">Wise Financial System 3.0</a></li>
+							
+						</ul>
+					</li>
+
+				
+			</ul>
+		</li>
+		
+	
+</ul>
+
+<script>
+	const expandables = document.querySelectorAll('.archive__expendable')
+	for(let i = 0; i < expandables.length; i++) {
+		expandables[i].addEventListener('click', (e) => {
+			e.stopPropagation()
+			expandables[i].classList.toggle('archive__expendable_collapsed')
+		})
+	}
+</script>
 
 	</main>
 
